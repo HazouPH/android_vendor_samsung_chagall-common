@@ -46,7 +46,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/chagall-common/proprietary/vendor/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin \
     vendor/samsung/chagall-common/proprietary/vendor/app/mcRegistry/ffffffffd0000000000000000000000e.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffffd0000000000000000000000e.tlbin \
     vendor/samsung/chagall-common/proprietary/vendor/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/fffffffff0000000000000000000001e.tlbin \
-    vendor/samsung/chagall-common/proprietary/vendor/bin/vcsFPService:$(TARGET_COPY_OUT_VENDOR)/bin/vcsFPService \
     vendor/samsung/chagall-common/proprietary/etc/PARAM.ini:$(TARGET_COPY_OUT_SYSTEM)/etc/PARAM.ini \
     vendor/samsung/chagall-common/proprietary/etc/PDC.ini:$(TARGET_COPY_OUT_SYSTEM)/etc/PDC.ini \
     vendor/samsung/chagall-common/proprietary/etc/wifi/bcmdhd_apsta.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/bcmdhd_apsta.bin \
@@ -67,11 +66,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/chagall-common/proprietary/etc/wifi/nvram_net.txt_4354_a0:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/nvram_net.txt_4354_a0 \
     vendor/samsung/chagall-common/proprietary/etc/wifi/nvram_net.txt_4354_a1:$(TARGET_COPY_OUT_SYSTEM)/etc/wifi/nvram_net.txt_4354_a1 \
     vendor/samsung/chagall-common/proprietary/vendor/lib/libak09911c.so:$(TARGET_COPY_OUT_VENDOR)/lib/libak09911c.so \
-    vendor/samsung/chagall-common/proprietary/vendor/lib/libfpasmtztransport.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfpasmtztransport.so \
-    vendor/samsung/chagall-common/proprietary/vendor/lib/libvalAuth.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvalAuth.so \
-    vendor/samsung/chagall-common/proprietary/vendor/lib/libvcsfp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvcsfp.so \
-    vendor/samsung/chagall-common/proprietary/vendor/lib/libvfmClient.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvfmClient.so \
-    vendor/samsung/chagall-common/proprietary/vendor/lib/libvfmtztransport.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvfmtztransport.so \
     vendor/samsung/chagall-common/proprietary/vendor/firmware/fimc_is_fw2_IMX134_EEPROM.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_fw2_IMX134_EEPROM.bin \
     vendor/samsung/chagall-common/proprietary/vendor/firmware/setfile_6b2_eeprom.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_6b2_eeprom.bin \
     vendor/samsung/chagall-common/proprietary/vendor/firmware/setfile_imx134_eeprom.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_imx134_eeprom.bin
